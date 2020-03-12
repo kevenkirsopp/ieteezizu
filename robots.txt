@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://wohseewiy.hopipola.co.uk/sitemap.xml
